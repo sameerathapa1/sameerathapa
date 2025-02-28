@@ -1,2 +1,3 @@
 # sameerathapa
-This is my first Git repo
+This is my first Git repo.
+solo-sammy.
